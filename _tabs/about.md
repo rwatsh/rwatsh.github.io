@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![Profile](/assets/images/watsh.png){: width="700" height="400" }
+![Profile](/assets/images/watsh.png){: width="700" height="400" .center }
 
 Hi, I am Watsh Rajneesh. Thank you for visiting my website. Here is a little bit about me:
 - Software Engineer 
