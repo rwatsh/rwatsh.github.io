@@ -27,8 +27,8 @@ Goal is to be able to complete all of the below listed books, courses and Hands-
 
 
 ### Courses
-- [ ] https://course.fast.ai (ETA 6/30)
 - [ ] Python Distilled by David Beazley (ETA 5/30)
+- [ ] https://course.fast.ai (ETA 6/30)
 - [ ] Machine Learning Specialization (Coursera) (ETA 7/30)
 - [ ] Deep Learning Specialization (Coursera) (ETA 8/30)
 
