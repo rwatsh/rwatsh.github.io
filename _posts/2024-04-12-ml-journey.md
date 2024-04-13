@@ -16,7 +16,7 @@ I am arranging the books, courses and hands-on practices in sections and keeping
 Goal is to be able to complete all of the below listed books, courses and Hands-on practices by 2024 year end.
 
 ### Books 
-- [ ] Machine Learning with PyTorch & Scikit-Learn by Sebastian Raschka (ETA 5/30)
+- [ ] Machine Learning with PyTorch & Scikit-Learn by Sebastian Raschka (ETA 5/30) <--
 - [ ] Deep Learning for Coders with fastai and PyTorch by Jeremy Howard (ETA 6/30)
 - [ ] Learning Deep Learning by Ekman (ETA 7/30)
 - [ ] Data Science from Scratch by Joel Grus (ETA 8/30)
@@ -27,7 +27,7 @@ Goal is to be able to complete all of the below listed books, courses and Hands-
 
 
 ### Courses
-- [ ] [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) by Sebastian Raschka (ETA 04/30)
+- [ ] [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) by Sebastian Raschka (ETA 04/30) <--
 - [ ] [Python Distilled](https://learning.oreilly.com/videos/python-programming-language/9780134217314/9780134217314-PYMC_08_05/) by David Beazley (ETA 5/30)
 - [ ] [Fast.ai Course](https://course.fast.ai) (ETA 6/30)
 - [ ] [Machine Learning Specialization](https://www.coursera.org/programs/online-learning-for-apple/specializations/machine-learning-introduction) (Coursera) (ETA 7/30)
