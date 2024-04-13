@@ -3,7 +3,8 @@ layout: post
 title: My journey into learning machine and deep learning
 date: 2024-04-12 22:59 -0500
 author: rwatsh
-tags: [Plan]
+tags: [plan, ml]
+categories: [ML, Journey]
 ---
 I read the book by Radek Osmulski called [Meta Learning](https://rosmulski.gumroad.com/l/learn_machine_learning/blog) in which he describes how he planned to learn programming and then machine learning and with his hard work and dedication he has been able to succeed in becoming an ML Engineer at Nvidia. I learned about this book from fast.ai site and Radek was one of the students of that course. In the book he mentions of learning publicly and by which he means to be able to record what one is learning on some blog or other social media. As a result of doing that, one becomes more accountable for their commitments to learning (or whatever they plan to achieve). It does not matter who ends up reading that blog or tweet but the very fact that one is writing it down as a public record makes one think about the tasks put out their as something they need to give their best to complete. I also read another book [Can't Hurt Me](https://a.co/d/j8SWIxa) where the author David Goggins talks about his accountability mirror. There was a patten of doing some hard thing like learning some hard topic or completing seal training publicly and as a result be more accountable for doing one's part to completing those tasks.
 

@@ -3,7 +3,8 @@ layout: post
 title: Machine Learning - Part 1 
 date: 2024-04-12 12:33 -0500
 author: rwatsh
-tags: [Books]
+tags: [books, ml]
+categories: [ML,Book1]
 ---
 Following is my notes from the book Python Machine Learning with PyTorch and Scikit-Learn by Sebastuan Raschka, et. al.
 
