@@ -27,11 +27,12 @@ Goal is to be able to complete all of the below listed books, courses and Hands-
 
 
 ### Courses
-- [ ] Python Distilled by David Beazley (ETA 5/30)
-- [ ] https://course.fast.ai (ETA 6/30)
-- [ ] Machine Learning Specialization (Coursera) (ETA 7/30)
-- [ ] Deep Learning Specialization (Coursera) (ETA 8/30)
+- [ ] [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) by Sebastian Raschka (ETA 04/30)
+- [ ] [Python Distilled](https://learning.oreilly.com/videos/python-programming-language/9780134217314/9780134217314-PYMC_08_05/) by David Beazley (ETA 5/30)
+- [ ] [Fast.ai Course](https://course.fast.ai) (ETA 6/30)
+- [ ] [Machine Learning Specialization](https://www.coursera.org/programs/online-learning-for-apple/specializations/machine-learning-introduction) (Coursera) (ETA 7/30)
+- [ ] [Deep Learning Specialization](https://www.coursera.org/programs/online-learning-for-apple/specializations/deep-learning) (Coursera) (ETA 8/30)
 
 ### Practice
-- [ ] Kaggle (Start by 7/01 after completing fastai course work) 
+- [ ] [Kaggle](https://www.kaggle.com/learn) (Start by 7/01 after completing fastai course work) 
 
