@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning - Part 1 
+title: Machine Learning - Part 1 - Introduction
 date: 2024-04-12 12:33 -0500
 author: rwatsh
 tags: [books, ml]
