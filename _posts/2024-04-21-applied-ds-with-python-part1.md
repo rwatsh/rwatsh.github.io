@@ -9,6 +9,8 @@ categories: [DS, Book-ADWP]
 
 https://www.coursera.org/learn/python-data-analysis
 
+The course covers various data analysis techniques, such as cleaning and manipulating data, running statistical analyses, and using functions like groupby, merge, and pivot tables. These skills are valuable in many industries and can help you make data-driven decisions.
+
 ## Python Refresher
 
 #### Datatypes 
