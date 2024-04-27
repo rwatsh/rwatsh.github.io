@@ -37,3 +37,11 @@ Goal is to be able to complete all of the below listed books, courses and Hands-
 ### Practice
 - [ ] [Kaggle](https://www.kaggle.com/learn) (Start by 7/01 after completing fastai course work) 
 
+
+### Updated Plan (4/27/24)
+1. Applied Data Science with Python course + Python for Data Analysis + Hands-on Machine Learning - 5/30
+2. ML specialization - will have certificate to show here - 5/30
+3. Math for Machine learning course + Deep learning with Python - 7/30
+4. DL specialization - will have certificate to show here. 7/30
+5. Gen AI with LLM course - 7/30
+6. Fast.ai course + Deep Learning for coders book 8/30
