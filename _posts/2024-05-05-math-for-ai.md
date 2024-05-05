@@ -5,16 +5,7 @@ date: 2024-05-05 01:31 -0500
 tags: [ML, ds]
 categories: [DS, ML]
 ---
-- 6 months
-- module = 2 weeks to 6 weeks
-- weekly mentor sessions 
-
 # The Must-Know Mathematics & Statistics Behind AI
-
-Faraaz Ahmed Sheriff
-DS Toronto Works for Ministry of Toronto
-
-- Generative AI added to the course content
 
 ### Probability
 
@@ -82,7 +73,6 @@ What is the probability that patient has covid given that test came out to be po
       - [np.std()](https://numpy.org/doc/stable/reference/generated/numpy.std.html) = numpy has a function for this
 
 ![image-20240504222543700](/assets/images/image-20240504222543700.png)
-Naked Statistics - book
 
 ### Matrices
 
