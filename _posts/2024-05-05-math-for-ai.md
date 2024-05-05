@@ -90,5 +90,3 @@ What is the probability that patient has covid given that test came out to be po
 - increasing interpretability of data while preserving the max amount of information
 - helps reduce storage space consumed by data
 - reduces complexity 
-
-![image-20240504223449477](/assets/images/image-20240504223449477.png)
