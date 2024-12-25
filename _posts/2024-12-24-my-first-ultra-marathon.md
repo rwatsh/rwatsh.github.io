@@ -14,6 +14,9 @@ Following is the running gear i used:
 3. [Salomon High Pulse Belt](https://www.salomon.com/en-us/shop/product/high-pulse-lc12900.html)
 4. [Hoka Speedgoat 5 GTX](https://www.hoka.com/en/us/sale/speedgoat-5-gtx/1127912.html)
 5. [Outdoor Research Cap](https://www.amazon.com/Outdoor-Research-Sun-Runner-White/dp/B0BRKN8BKF)
+6. Apple Watch Ultra 2
+7. Compression Socks
+8. Sun protection compression sleeves
 
 A good shoe is required. Also need to manage our nutrition during the run. I had 200 kcal per hour approx. Had used some peanut butter cookies, fig bars and whatever was available at the aid stations. 
 For this race, the aid stations were 10 miles apart so we needed to carry enough supplies for water and nutrition on us during the run. I was prepared for that so it all worked out well. 
