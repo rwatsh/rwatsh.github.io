@@ -11,8 +11,8 @@ Following is the running gear i used:
 1. [Salomon ADV SKIN 12](https://www.salomon.com/en-us/shop/product/adv-skin-12-lc11657.html)
 2. [Salomon Trail Gaiter High](https://www.salomon.com/en-us/shop/product/trail-gaiters-high.html)
 3. [Salomon High Pulse Belt](https://www.salomon.com/en-us/shop/product/high-pulse-lc12900.html)
-4. Hoka Speedgoat 5 GTX
-5. [Outdoor Research Cap] (https://www.hoka.com/en/us/sale/speedgoat-5-gtx/1127912.html)
+4. [Hoka Speedgoat 5 GTX](https://www.hoka.com/en/us/sale/speedgoat-5-gtx/1127912.html)
+5. [Outdoor Research Cap](https://www.amazon.com/Outdoor-Research-Sun-Runner-White/dp/B0BRKN8BKF)
 
 A good shoe is required. Also need to manage our nutrition during the run. I had 200 kcal per hour approx. Had used some peanut butter cookies, fig bars and whatever was available at the aid stations. 
 For this race, the aid stations were 10 miles apart so we needed to carry enough supplies for water and nutrition on us during the run. I was prepared for that so it all worked out well. 
