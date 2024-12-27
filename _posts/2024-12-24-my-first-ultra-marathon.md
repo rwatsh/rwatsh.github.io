@@ -19,7 +19,8 @@ Following is the running gear i used:
 8. Sun protection compression sleeves
 9. [Injinji socks](https://a.co/d/0143sa1)
 
-A good shoe is required. Also need to manage our nutrition during the run. I had 200 kcal per hour approx. Had used some peanut butter cookies, fig bars and whatever was available at the aid stations. 
+A good shoe is required especially for trail runs where the ground could be rocky. Also we need to manage our nutrition during the run. I had 200 kcal per hour approx. Had used some peanut butter cookies, fig bars and whatever was available at the aid stations. I had a [2 liter hydration pack](https://a.co/d/f6lkvES) (that i got separately) in my Salomon backpack and 2 500ml bottles that came with the backpack. 
+To prevent from chaffing, i had used boxer briefs and for preventing from blisters in the feet, i had Injinji toe socks.
 For this race, the aid stations were 10 miles apart so we needed to carry enough supplies for water and nutrition on us during the run. I was prepared for that so it all worked out well. 
 
 Post the run my right leg muscle was sore for almost 2-3 weeks. Surprisingly my left leg was perfectly fine and injury free. I could only manage to do some slow runs in 2nd and 3rd week after the event. For the future i have procured a massage chair and hopefully that will help in recovery.
