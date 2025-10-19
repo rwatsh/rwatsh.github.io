@@ -256,6 +256,7 @@ agent = dspy.ReAct(
 ### Use the Agent
 - Invoke the dspy.ReAct with the inputs field defined in the signature, and it will start the reasoning and acting loop behind the scene.
 
+
 ```python
 # Configure DSPy to use cloud Ollama model
 cloud_ollama = dspy.LM(
