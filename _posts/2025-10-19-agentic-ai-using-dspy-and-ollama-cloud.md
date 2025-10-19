@@ -253,6 +253,7 @@ agent = dspy.ReAct(
 ```
 ### Use the Agent
 - Invoke the dspy.ReAct with the inputs field defined in the signature, and it will start the reasoning and acting loop behind the scene.
+
 ```python
 # Configure DSPy to use cloud Ollama model
 cloud_ollama = dspy.LM(
@@ -273,6 +274,7 @@ confirmation_number = "{copy the confirmation number here}"
 result = agent(user_request=f"i want to take DA125 instead on 09/01, please help me modify my itinerary {confirmation_number}")
 print(result)
 ```
+
 ### Agent Trajectory
 ```bash
     trajectory={'thought_0': "I need to retrieve Adam's user profile before I can book a flight for him. I'll start by fetching his user information from the database.", 'tool_name_0': 'get_user_info', 'tool_args_0': {'name': 'Adam'}, 'observation_0': UserProfile(user_id='1', name='Adam', email='adam@gmail.com'), 'thought_1': "Now that I have Adam's user profile, I need to find available flights from SFO to JFK on September 1, 2025. I will fetch flight information for that route and date.", 'tool_name_1': 'fetch_flight_info', 'tool_args_1': {'origin': 'SFO', 'destination': 'JFK', 'date': {'year': 2025, 'month': 9, 'day': 1, 'hour': 0}}, 'observation_1': [Flight(flight_id='DA123', date_time=Date(year=2025, month=9, day=1, hour=1), origin='SFO', destination='JFK', duration=3.0, price=200.0), Flight(flight_id='DA125', date_time=Date(year=2025, month=9, day=1, hour=7), origin='SFO', destination='JFK', duration=9.0, price=500.0)], 'thought_2': 'I have the list of available flights. I will use the pick_flight tool to select the best option based on shortest duration and lowest price.', 'tool_name_2': 'pick_flight', 'tool_args_2': {'flights': [{'flight_id': 'DA123', 'date_time': {'year': 2025, 'month': 9, 'day': 1, 'hour': 1}, 'origin': 'SFO', 'destination': 'JFK', 'duration': 3.0, 'price': 200.0}, {'flight_id': 'DA125', 'date_time': {'year': 2025, 'month': 9, 'day': 1, 'hour': 7}, 'origin': 'SFO', 'destination': 'JFK', 'duration': 9.0, 'price': 500.0}]}, 'observation_2': Flight(flight_id='DA123', date_time=Date(year=2025, month=9, day=1, hour=1), origin='SFO', destination='JFK', duration=3.0, price=200.0), 'thought_3': 'I have selected the best flight (DA123) for Adam. The next step is to book this flight using his user profile.', 'tool_name_3': 'book_flight', 'tool_args_3': {'flight': {'flight_id': 'DA123', 'date_time': {'year': 2025, 'month': 9, 'day': 1, 'hour': 1}, 'origin': 'SFO', 'destination': 'JFK', 'duration': 3.0, 'price': 200.0}, 'user_profile': {'user_id': '1', 'name': 'Adam', 'email': 'adam@gmail.com'}}, 'observation_3': ('ta18vp18', Itinerary(confirmation_number='ta18vp18', user_profile=UserProfile(user_id='1', name='Adam', email='adam@gmail.com'), flight=Flight(flight_id='DA123', date_time=Date(year=2025, month=9, day=1, hour=1), origin='SFO', destination='JFK', duration=3.0, price=200.0))), 'thought_4': 'The flight has been successfully booked for Adam. I will now finish the task.', 'tool_name_4': 'finish', 'tool_args_4': {}, 'observation_4': 'Completed.'},
