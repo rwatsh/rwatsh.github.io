@@ -16,12 +16,14 @@ The code below is based on https://dspy.ai/tutorials/customer_service_agent/ and
 2. Sign up for an Ollama Cloud account and get your API key.
 3. Install the `gpt-oss:120b-cloud` model: Once we signin to ollama and have associated the laptop device with ollama user ID then we can connect to cloud model hosted at ollama.com by connecting to locally running ollama service. This enables running faster inference in cloud instead of running it locally on a model downloaded to laptop.
 With dspy we can easily switch between cloud hosted and locally hosted models by setting dspy.configure(lm=<your-choice-of-model>)
+
 ```bash
 ollama signin
 ollama run gpt-oss:120b-cloud
 ```
 
 4. Test if the setup is working:
+
 ```python
 import dspy
 
