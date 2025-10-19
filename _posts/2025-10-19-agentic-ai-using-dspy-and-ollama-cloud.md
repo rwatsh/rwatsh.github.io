@@ -2,6 +2,9 @@
 layout: post
 title: Agentic AI using DSPy and Ollama Cloud
 date: 2025-10-19 04:22 -0500
+author: rwatsh
+tags: [ai, dspy, ollama]
+categories: [AI,AgenticAI]
 ---
 Putting it all together: A customer service airline booking Agent using DSPy + Ollama cloud models
 The code below is based on https://dspy.ai/tutorials/customer_service_agent/ and modified to use Ollama cloud model.
