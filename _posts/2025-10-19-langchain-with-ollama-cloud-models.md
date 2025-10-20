@@ -16,7 +16,8 @@ Pre-requisites:
 
 
 ```bash
-pip install langchain-community
+pip install langchain-community langchain-ollama
+
 ollama signin
 ollama run gpt-oss:120b-cloud
 ```
