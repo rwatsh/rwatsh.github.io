@@ -23,11 +23,11 @@ ollama run gpt-oss:120b-cloud
 
 
 ```python
-from langchain_community.llms import Ollama
+from langchain_ollama import OllamaLLM 
 # Replace with your cloud IP or DNS name
 ollama_url = "http://localhost:11434"
 
-llm = Ollama(
+llm = OllamaLLM(
     base_url=ollama_url,
     model="gpt-oss:120b-cloud",  # Or any model you've loaded in Ollama
 )
