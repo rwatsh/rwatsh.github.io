@@ -63,8 +63,6 @@ A shared state keeps evolving as AI workflow progresses and each Node agent as i
 
 ```python
 from typing import Annotated
-
-from dotenv import load_dotenv
 from langchain_ollama import OllamaLLM
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.message import add_messages
@@ -79,11 +77,6 @@ class State(TypedDict):
     messages: Annotated[list, add_messages]
 
 graph = StateGraph(State)
-
-# Load environment variables
-load_dotenv()
-# groq_api_key = os.getenv("GROQ_API_KEY")
-# groq_base_url = os.getenv("GROQ_BASE_URL")
 
 llm = OllamaLLM(
     base_url=ollama_url,
