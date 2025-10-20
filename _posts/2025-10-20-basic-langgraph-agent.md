@@ -26,24 +26,25 @@ https://github.com/langchain-ai/langgraph
 ## Features of LangGraph framework
 
 1. Graph-based workflows
-    * Nodes - Represent discrete units of work, which can be any function, a large language model (LLM), or a tool call.
-    * Edges - Define the transitions between nodes, controlling the flow of the application. They can be simple, fixed paths or conditional, with the next step determined by the current state.
-    * Cycles - A key feature that allows workflows to have loops. This is crucial for agents that need to reflect on their output, retry a failed action, or refine their reasoning before proceeding. 
+    * **Nodes** - Represent discrete units of work, which can be any function, a large language model (LLM), or a tool call.
+    * **Edges** - Define the transitions between nodes, controlling the flow of the application. They can be simple, fixed paths or conditional, with the next step determined by the current state.
+    * **Cycles** - A key feature that allows workflows to have loops. This is crucial for agents that need to reflect on their output, retry a failed action, or refine their reasoning before proceeding. 
 ￼
 2. Advanced State and Memory management 
-	* Persistent state - An explicit, user-defined state object is passed between nodes and automatically updated. This allows the graph to maintain context throughout long-running or multi-turn interactions, which is a major enhancement over earlier, often stateless, agent executors. **A shared state keeps evolving as AI workflow progresses and each Node agent as it executes will have access to the shared state store as context.**
-	* Durable execution - An explicit, user-defined state object is passed between nodes and automatically updated. This allows the graph to maintain context throughout long-running or multi-turn interactions, which is a major enhancement over earlier, often stateless, agent executors.
-    * Long-term memory - Supports persistent storage across multiple sessions, allowing agents to remember user preferences or past interactions over extended periods.
-	* Time travel - Allows developers to inspect, rewind, and modify the application's state at any point during execution, which significantly simplifies debugging. 
+	* **Persistent state** - An explicit, user-defined state object is passed between nodes and automatically updated. This allows the graph to maintain context throughout long-running or multi-turn interactions, which is a major enhancement over earlier, often stateless, agent executors. **A shared state keeps evolving as AI workflow progresses and each Node agent as it executes will have access to the shared state store as context.**
+	* **Durable execution** - An explicit, user-defined state object is passed between nodes and automatically updated. This allows the graph to maintain context throughout long-running or multi-turn interactions, which is a major enhancement over earlier, often stateless, agent executors.
+    * **Long-term memory** - Supports persistent storage across multiple sessions, allowing agents to remember user preferences or past interactions over extended periods.
+	* **Time travel** - Allows developers to inspect, rewind, and modify the application's state at any point during execution, which significantly simplifies debugging. 
 
-3. Human-in-the-loop (HITL) workflow - Developers can add "human nodes" to the workflow where the process pauses to wait for human feedback or approval. The workflow can then resume based on the human's input. This is invaluable for sensitive tasks or those requiring expert review. 
+3. **Human-in-the-loop (HITL) workflow** - Developers can add "human nodes" to the workflow where the process pauses to wait for human feedback or approval. The workflow can then resume based on the human's input. This is invaluable for sensitive tasks or those requiring expert review. 
 
-4. First-class Streaming - Native support for streaming provides real-time visibility into an agent's reasoning process. It can stream intermediate steps and token-by-token output, which improves the user experience and helps with debugging.
+4. **First-class Streaming** - Native support for streaming provides real-time visibility into an agent's reasoning process. It can stream intermediate steps and token-by-token output, which improves the user experience and helps with debugging.
 
-5. Multi-agent coordination - The graph structure is well-suited for orchestrating collaboration between multiple specialized agents. A "supervisor" agent can route tasks to various worker agents to handle complex workloads.
+5. **Multi-agent coordination** - The graph structure is well-suited for orchestrating collaboration between multiple specialized agents. A "supervisor" agent can route tasks to various worker agents to handle complex workloads.
 
-6. Parallelization - Using the Send API, developers can run multiple branches of a graph concurrently to speed up the processing of independent subtasks. 
-￼
+6. **Parallelization** - Using the Send API, developers can run multiple branches of a graph concurrently to speed up the processing of independent subtasks.
+
+
 ## Basic Principles of LangGraph
 
 1. LangGraph is *Typed* meaning it expects a `State` schema that must be defined using python typing
